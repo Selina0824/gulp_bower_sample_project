@@ -1,0 +1,20 @@
+{
+  "name": "sample-project-bower",
+  "description": "The sample project we will use throughout the Gulp chapters",
+  "main": "index.js",
+  "authors": [
+    "liuqian <15689808252@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
